@@ -40,7 +40,7 @@
 ---
 
 ### 📌 Notes
-- Ensure you have **Python 3.x** installed before running the commands.
+- Ensure you have **Python 3** installed before running the commands.
 - If you're on **macOS/Linux**, you may need to use `source venv/bin/activate` instead of `venv\Scripts\activate`.
 - If you encounter any issues, check the error messages and ensure all dependencies are installed correctly.
 
