@@ -33,6 +33,10 @@
 - The server will start, and a URL will be provided.
 - Open the URL in your browser and start interacting with the website.
 
+## PROJECT MEMBERS:
+1. Sehirsh Ahmed Sangrasi.
+2. Laiba Mushtaq.
+
 ---
 
 ### 📌 Notes
